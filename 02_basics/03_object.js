@@ -1,4 +1,4 @@
-// singleton
+  // singleton
 // Object.create
 
 // object literals
@@ -28,7 +28,7 @@ JsUser.email = "hitesh@microsoft.com"
 // console.log(JsUser);
 
 JsUser.greeting = function(){
-    console.log("Hello JS user");99
+    console.log("Hello JS user");
 }
 JsUser.greetingTwo = function(){
     console.log(`Hello JS user, ${this.name}`);
